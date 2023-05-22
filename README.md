@@ -69,5 +69,8 @@ Esta función verifica si se ha presionado el botón de subir o el botón de baj
 5. Al presionar el botón de bajar, el montacargas iniciará la secuencia de bajada, mostrando en el display cada piso a medida que desciende.
 6. Si se mantiene presionado el botón de pausar, se detendrá la secuencia y se mostrará un mensaje en el monitor serial. Al soltar el botón de pausar, la secuencia se reanudará.
 
+## Diagrama esquemático: 
+![diagrama-esquematico](https://github.com/TobiasEscobar/1-Parcial-SPD/assets/98720272/bc67099c-8643-472a-90ae-42cb964ded89)
+
 ## :robot: Link al proyecto 
 [Proyecto-Parcial](https://www.tinkercad.com/things/0VUXdhJp14X-1parcial-spd-escobar-tobias-fabricio/editel?sharecode=VjpCkzpbkIJkHSVWQhmTBHnWZeh9Q9fcdaGzutt19uQ)
